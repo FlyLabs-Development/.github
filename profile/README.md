@@ -1,6 +1,34 @@
-## FlyLabs
+# FlyLabs Netzwerk
 
-Willkommen in der grenzenlosen Welt von FlyLabs, einem innovativen Minecraft-Server-Netzwerk, das darauf abzielt, eine einladende Oase für Spieler aller Erfahrungsstufen zu schaffen. In unserer vielfältigen Umgebung finden Minecraft-Enthusiasten eine breite Palette von Spielmodi, angefangen bei der klassischen Survival-Herausforderung bis hin zu kreativen Bauprojekten, spannenden Skyblock-Abenteuern und fesselnden Minigames. Unser Rangsystem belohnt die Spieler für ihre Hingabe und ihre Fähigkeiten, während regelmäßige Events und Herausforderungen eine lebendige Gemeinschaft fördern. Tauchen Sie ein in die Welt von CraftUniverse, wo grenzenlose Kreativität auf eine blühende Community trifft und ein unvergessliches Minecraft-Erlebnis auf Sie wartet.
+Willkommen beim FlyLabs Netzwerk - Deiner ultimativen Minecraft-Gaming-Destination! 🚀 Hier erlebst du einzigartige Spielmodi, eine blühende Community und innovative Features. Wir sind stolz darauf, dir ein unvergleichliches Minecraft-Erlebnis zu bieten. 
 
-**Entwickler**
-- Weapie aka. Jerrit
+## Über uns
+
+FlyLabs ist nicht nur ein Server-Netzwerk, sondern eine leidenschaftliche Gemeinschaft von Minecraft-Enthusiasten. Unser Ziel ist es, eine Plattform zu schaffen, auf der Spieler aller Erfahrungsstufen zusammenkommen, kreativ werden und Abenteuer erleben können. Hier findest du das Beste aus Survival, PvP, Kreativmodus und vieles mehr.
+
+## Spielmodi
+
+### SkyPvP - Wo Himmel und Schlachten verschmelzen
+Stürze dich in actiongeladene PvP-Kämpfe auf schwebenden Inseln. Sammle Ressourcen, kämpfe gegen andere Spieler und erkämpfe dir deinen Platz als Himmelskrieger.
+
+### Survival - Überlebe und blühe auf
+Erkunde eine dynamische Welt, kaufe und verkaufe Grundstücke, gründe Gemeinschaften und beweise deine Überlebensfähigkeiten in unserem ausgewogenen Survival-Modus.
+
+### Minigames - Spaß in kleinen Paketen
+Von spannenden BreakTheEmerald-Schlachten bis hin zu JumpLeague-Herausforderungen - genieße eine Vielzahl von Minigames, um deine Fähigkeiten unter Beweis zu stellen.
+
+## Rangsystem
+
+Unser Rangsystem belohnt Engagement und Loyalität. Steige auf und erhalte Zugriff auf exklusive Vorteile, von besonderen Kits bis hin zu einzigartigen Events. Der Weg zur Legende beginnt hier!
+
+## Mitmachen und Verbinden
+
+- **Website:** [www.flylabs.net](https://www.flylabs.net)
+- **Discord:** [FlyLabs Discord](https://discord.gg/flylabs)
+- **Server-IP:** play.flylabs.net
+
+Trete unserer wachsenden Community bei, teile deine Ideen und sei Teil des Abenteuers. FlyLabs - Wo Minecraft-Träume wahr werden! 🌟
+
+*Viel Spaß beim Spielen!*
+
+**Das FlyLabs Team**
